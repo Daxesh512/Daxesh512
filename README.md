@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **Advanced MERN & DevOps Basics**
 - 🧠 Exploring **Backend scaling & clean architecture**
 - 💬 Ask me about **JavaScript, MERN, Laravel & REST APIs**
-- 📫 Reach me: **your-email@example.com** *(replace this)*  
+- 📫 Reach me: **daxeshpatel5120@gmail.com** 
 - ⚡ Fun fact: I love solving problems and debugging 😎
 
 ---
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge&logo=firefox&logoColor=white"></a>
 <a href="https://github.com/Daxesh512"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/daxesh-patel-257061206/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
