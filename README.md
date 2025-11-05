@@ -98,6 +98,10 @@ Here are some ideas to get you started:
        src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight" />
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&color=yellow" />
+</p>
 ---
 
 ### 🏆 Trophies
