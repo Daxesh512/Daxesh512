@@ -103,7 +103,19 @@ Here are some ideas to get you started:
 </p>
 
 ---
+---
+### 🧠 Fun GitHub Activity Graph Coming Soon 🚧
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribution%20Graph-Coming%20Soon-blueviolet?style=for-the-badge" />
+</p>
 
+<!-- Clean Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7F52FF&height=3&section=footer" />
+</p>
+
+---
+---
 ### 🚀 Current Focus
 - ✅ MERN Deep Dive
 - ✅ Laravel APIs & Auth
