@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Daxesh512/Daxesh512/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+
 ---
 ### 🧠 Fun GitHub Activity Graph Coming Soon 🚧
 <p align="center">
@@ -114,7 +114,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7F52FF&height=3&section=footer" />
 </p>
 
----
 ---
 ### 🚀 Current Focus
 - ✅ MERN Deep Dive
