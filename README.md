@@ -96,6 +96,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars"/>
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Daxesh512&label=Profile%20views&color=0e75b6&style=flat" alt="Daxesh512" />
+</p>
 
 <p align="center">
 <img height="180" src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight" />
