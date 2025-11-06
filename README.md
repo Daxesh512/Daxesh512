@@ -93,26 +93,14 @@ Here are some ideas to get you started:
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
-
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=1"
-       alt="GitHub stats" style="max-width:100%; height:auto;" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1"
-       alt="Top languages" style="max-width:100%; height:auto;" />
-</p>
-
-<!-- Activity graph (solid fallback) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true"
-       alt="activity graph" style="max-width:100%; height:auto;" />
+  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars"/>
 </p>
 
 
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&color=yellow" />
+</p>
 
 ---
 
