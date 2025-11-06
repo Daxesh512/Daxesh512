@@ -97,10 +97,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars"/>
 </p>
 
-
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&color=yellow" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&color=yellow" />
+</p> -->
 
 ---
 
