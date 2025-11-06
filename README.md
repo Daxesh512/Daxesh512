@@ -94,34 +94,45 @@ Here are some ideas to get you started:
 </p>
 
 <!-- ===========================
-     GitHub Stats (responsive)
-     - github-readme-stats (with cache)
-     - activity graph fallback
-     - single stars badge (no duplicates)
+     📊 GitHub Stats + Streak + Graph
      =========================== -->
 
 <p align="center">
+  <!-- Main GitHub Stats -->
   <img height="170"
        src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=1"
-       alt="GitHub stats" style="max-width:100%; height:auto;" />
+       alt="GitHub Stats"
+       style="max-width:100%; height:auto;" />
+
+  <!-- Top Languages -->
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1"
-       alt="Top languages" style="max-width:100%; height:auto;" />
+       alt="Top Languages"
+       style="max-width:100%; height:auto;" />
 </p>
 
-<!-- Optional activity graph (uncomment to enable) -->
+<!-- 🧩 Streak Stats (with fallback) -->
+<p align="center">
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=Daxesh512&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+       alt="GitHub Streak"
+       style="max-width:100%; height:auto;" 
+       onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true';" />
+</p>
+
+<!-- 🕹️ Optional Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true"
-       alt="activity graph" style="max-width:100%; height:auto;" />
+       alt="Activity Graph"
+       style="max-width:100%; height:auto;" />
 </p>
 
-<!-- Stars badge (single, reliable) -->
+<!-- ⭐ Stars Badge -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800"
-       alt="stars" />
+  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars" />
 </p>
 
-<!-- Profile views -->
+<!-- 👁️ Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Daxesh512&label=Profile%20views&color=0e75b6&style=flat"
        alt="profile views" />
