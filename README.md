@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img height="180" src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img height="170" 
        src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=1" />
   <img height="170"
@@ -98,10 +98,40 @@ Here are some ideas to get you started:
        src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight" />
 </p>
 
+https://raw.githubusercontent.com/Daxesh512/Daxesh512/output/github-contribution-grid-snake.svg
+
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&color=yellow" />
-</p>
+</p> -->
+
+<table align="center" cellpadding="8">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1"
+        alt="Github Stats"
+        style="max-width:100%; height:auto; display:block;">
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1"
+        alt="Top Languages"
+        style="max-width:100%; height:auto; display:block;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Activity graph (use this instead of streak-stats if it's failing) -->
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true"
+        alt="Activity Graph"
+        style="max-width:100%; height:auto; display:block;">
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ### 🏆 Trophies
