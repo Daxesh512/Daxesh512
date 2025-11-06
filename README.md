@@ -93,6 +93,17 @@ Here are some ideas to get you started:
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
 
+### 🔥 GitHub Streak (with safe fallback)
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"
+    alt="GitHub Streak"
+    style="max-width:100%; height:auto;"
+    onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true';" />
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars"/>
 </p>
@@ -100,28 +111,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Daxesh512&label=Profile%20views&color=0e75b6&style=flat" alt="Daxesh512" />
 </p>
 
-<!-- <p align="center">
-<img height="180" src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight" />
-</p> -->
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=1"
-       alt="GitHub Stats" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1"
-       alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"
-       alt="GitHub Streak"
-       height="180" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&color=yellow" />
-</p> -->
 
 ---
 
