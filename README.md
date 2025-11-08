@@ -102,18 +102,14 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
-  <!-- Primary: GitHub Readme Stats | Fallback: Activity Graph (or your self-hosted endpoint) -->
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=3600&v=4"
-       alt="GitHub stats"
-       onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true';" />
-
-  <!-- Primary: Top langs | Fallback: same activity graph or another safe card -->
+       src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=4" />
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&cache_seconds=3600&v=4"
-       alt="Top languages"
-       onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true';" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=4" />
 </p>
+
+
+
 
 ### 🔥 GitHub Streak (with safe fallback)
 
