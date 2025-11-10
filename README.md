@@ -103,9 +103,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=1" />
+       src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=2" />
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" />
 </p>
 
 
