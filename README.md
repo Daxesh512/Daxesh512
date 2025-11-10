@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"
+    src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="GitHub Streak"
     style="max-width:100%; height:auto;"
     onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true';" />
