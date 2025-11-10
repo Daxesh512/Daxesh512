@@ -78,8 +78,9 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=1" />
+  <!-- <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=1" /> -->
+  <img height="170" src="https://raw.githubusercontent.com/Daxesh512/Daxesh512/main/assets/stats.svg" alt="GitHub Stats" style="max-width:100%; height:auto;" />
   <img height="170"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
 </p>
