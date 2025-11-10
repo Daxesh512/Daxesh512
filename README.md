@@ -85,13 +85,23 @@ Here are some ideas to get you started:
 </p>
 
 ### 🔥 GitHub Streak (with safe fallback)
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"
     alt="GitHub Streak"
     style="max-width:100%; height:auto;"
     onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true';" />
+</p> -->
+
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1"
+    alt="GitHub Streak"
+    style="max-width:100%; height:auto;"
+    onerror="this.onerror=null;this.src='https://github-readme-activity-graph.vercel.app/graph?username=Daxesh512&theme=tokyo-night&hide_border=true&area=true';" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars"/>
