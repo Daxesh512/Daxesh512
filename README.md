@@ -77,15 +77,6 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
-<!-- <p align="center">
- <img height="170"
-       src="https://raw.githubusercontent.com/Daxesh512/Daxesh512/main/assets/stats.svg"
-       alt="GitHub Stats"
-       style="max-width:100%; height:auto;" />
-</p> -->
-
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
@@ -126,9 +117,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Daxesh512&label=Profile%20views&color=0e75b6&style=flat" alt="Daxesh512" />
-</p>
+</p> -->
 
 
 
