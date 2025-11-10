@@ -89,19 +89,19 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
 
-<p align="center">
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Daxesh512&theme=dracula&no-frame=true" alt="Trophies" />
-</p>
+</p> -->
 
 
 ### 🔥 GitHub Streak (with safe fallback)
