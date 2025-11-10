@@ -77,12 +77,32 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
  <img height="170"
        src="https://raw.githubusercontent.com/Daxesh512/Daxesh512/main/assets/stats.svg"
        alt="GitHub Stats"
        style="max-width:100%; height:auto;" />
+</p> -->
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Daxesh512&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Daxesh512&theme=dracula&no-frame=true" alt="Trophies" />
+</p>
+
 
 ### 🔥 GitHub Streak (with safe fallback)
 <!-- <p align="center">
