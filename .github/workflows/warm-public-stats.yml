@@ -1,0 +1,30 @@
+name: Warm public GitHub Readme Stats cache
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch: {}
+
+jobs:
+  warm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl main stats (public)
+        run: |
+          URL="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800&v=2"
+          for i in 1 2 3; do
+            http=$(curl -s -o /dev/null -w "%{http_code}" -L "$URL")
+            echo "status $http"
+            [ "$http" -eq 200 ] && break
+            sleep 2
+          done
+
+      - name: Curl top-langs (public)
+        run: |
+          URL="https://github-readme-stats.vercel.app/api/top-langs/?username=Daxesh512&layout=compact&theme=tokyonight&cache_seconds=1800&v=2"
+          for i in 1 2 3; do
+            http=$(curl -s -o /dev/null -w "%{http_code}" -L "$URL")
+            echo "status $http"
+            [ "$http" -eq 200 ] && break
+            sleep 2
+          done
