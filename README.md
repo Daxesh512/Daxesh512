@@ -120,6 +120,40 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github&cacheSeconds=1800" alt="stars"/>
 </p> -->
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Daxesh512&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Daxesh512&layout=compact&theme=tokyonight" 
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Daxesh512&theme=tokyonight" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://img.shields.io/github/stars/Daxesh512?style=for-the-badge&logo=github" 
+    alt="GitHub Stars"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Daxesh512&theme=dracula&column=4" 
+    alt="GitHub Profile Trophies"
+  />
+</p>
 
 
 ---
