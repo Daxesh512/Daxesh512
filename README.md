@@ -127,8 +127,12 @@ Here are some ideas to get you started:
 
 ### 🏆 Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Daxesh512&theme=dracula&margin-w=10&column=7" />
+<img src="https://stable-github-profile-trophy.vercel.app/?username=Daxesh512&theme=dracula&margin-w=10&column=7" />
 </p>
+
+<!-- <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Daxesh512&theme=dracula&margin-w=10&column=7" />
+</p> -->
 
 ---
 
